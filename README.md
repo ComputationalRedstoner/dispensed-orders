@@ -1,4 +1,8 @@
+## Intro
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+This website retrieves and displays dispensed orders from the Smart Sauce Dispenser System database that runs on a MySQL server in XAMPP. 
 
 ## Getting Started
 
@@ -6,12 +10,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
